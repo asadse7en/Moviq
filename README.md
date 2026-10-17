@@ -34,6 +34,10 @@ Preview your new filenames and folder structure, review matches, and approve cha
 - **TMDB caching**: Reuse cached responses to speed up repeat lookups.
 - **Update checker**: Check for new releases from the About page.
 
+## Demo
+
+<img width="800" height="450" alt="ezgif-1b0ab9f8f00a7f7c" src="https://github.com/user-attachments/assets/9542ec21-ee61-4715-a16e-d260f3ae6222" />
+
 ## Download for Windows
 
 Download the portable Windows executable from the project's [GitHub Releases](https://github.com/asadse7en/Moviq/releases) page.
