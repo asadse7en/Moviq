@@ -1,0 +1,57 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Python environments and test artifacts
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local editor and OS state
+.vscode/
+.obsidian/
+.idea/
+.DS_Store
+Thumbs.db
+.github/
+
+# Build output and release artifacts
+build/
+dist/
+*.log
+*.sha256
+*.msi
+
+# Local settings, credentials, and caches
+.moviq.json
+/.moviq/
+.tmdb_renamer.json
+moviq_show_overrides.json
+moviq_cache.sqlite3*
+tmdb_cache.sqlite3*
+moviq_cache.json
+tmdb_cache.json
+error.log*
+
+# Personal media folders
+/movies/
+/shows/
+
+# Local-only project notes
+docs/
+
+
+# Local release/build files
+CHANGELOG.md
+build.ps1
+moviq.spec
+requirements-build.txt
+run_moviq.py
