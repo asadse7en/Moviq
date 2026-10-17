@@ -82,7 +82,7 @@ Run Moviq:
 python -m moviq
 ```
 
-Enter your TMDB API key in Settings before using the matching features.
+Enter your TMDB API key in Settings before using the matching features. Get a free API key from [TMDB](https://www.themoviedb.org/settings/api).
 
 ## Running Tests
 
