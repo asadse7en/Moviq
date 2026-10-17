@@ -92,11 +92,6 @@ To run the test suite from the project directory:
 python -m unittest discover -s tests -v
 ```
 
-## Project Structure
-
-- `moviq/core/` — Matching, TMDB access, file operations, naming, and configuration.
-- `moviq/ui/` — Desktop interface and dialogs.
-- `tests/` — Automated tests.
 
 ## Feedback and Issues
 
