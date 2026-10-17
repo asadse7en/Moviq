@@ -95,4 +95,4 @@ python -m unittest discover -s tests -v
 
 ## Feedback and Issues
 
-Found a bug or have an idea for an improvement? [Open an issue on GitHub](https://github.com/Moviq/Moviq/issues).
+Found a bug or have an idea for an improvement? [Open an issue on GitHub](https://github.com/asadse7en/Moviq/issues).
