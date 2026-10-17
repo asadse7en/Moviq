@@ -34,9 +34,9 @@ Preview your new filenames and folder structure, review matches, and approve cha
 - **TMDB caching**: Reuse cached responses to speed up repeat lookups.
 - **Update checker**: Check for new releases from the About page.
 
-## Download
+## Download for Windows
 
-**Windows:** Download the latest portable executable from [GitHub Releases](https://github.com/Moviq/Moviq/releases).
+Download the portable Windows executable from the project's [GitHub Releases](https://github.com/asadse7en/Moviq/releases) page.
 
 
 ## Getting Started
@@ -49,10 +49,6 @@ Preview your new filenames and folder structure, review matches, and approve cha
 
 You can get API key from [TMDB](https://www.themoviedb.org/).
 
-
-## Download for Windows
-
-Download the portable Windows executable from the project's [GitHub Releases](https://github.com/asadse7en/Moviq/releases) page.
 
 
 ## Run From Source
